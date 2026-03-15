@@ -2,7 +2,7 @@
 
 A premium, bespoke WordPress theme engineered from the ground up for **Business Class TV**. This platform is designed to serve as a high-end digital editorial spread and video streaming vault, completely bypassing bloated commercial themes in favor of raw performance and strict design constraints.
 
-This repository represents the core codebase for the STI College Ortigas-Cainta capstone project, delivering a production-ready, client-manageable media network.
+This repository represents a commercial, freelance build, delivering a production-ready, client-manageable media network.
 
 ## 🏗️ Architecture & Stack
 
